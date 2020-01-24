@@ -20,7 +20,7 @@ Ils sont donc les détenteurs des sombres et antiques mystères de la technologi
 Une faction jeune, dont les membres d'aspect moqueur, taquin, sont de terrible combattants privilégiant des tactiques de guerilla qu'aux batailles rangées. 
 Chaque membre a  un faible pour les sucreries, particulièrement pour une drogue connue sous le nom de skouma, distillé à partir du Sucre de lune.
 
-Ils font d’excellents voleurs grâce à leur agilité naturelle et à leurs prouesses acrobatiques inégalables. La plupart dédaignent les armes, et leur préfèrent leurs griffes, nombre d'experts en combat à mains nues étant issusde la faction furry.
+Ils font d’excellents voleurs grâce à leur agilité naturelle et à leurs prouesses acrobatiques inégalables. La plupart dédaignent les armes, et leur préfèrent leurs griffes, nombre d'experts en combat à mains nues étant issus de la faction furry.
 
 ## Astronautes : 
 Comment faire plus neutre que la Suisse ? Réponse : aller vivre dans l'espace et fuck la terre ! En prime adoptez un panda comme ça vous passerez pour la faction la plus Kawaii. A vous la belle vie enfin si les autres factions vous foutent la paix.
