@@ -1,0 +1,2 @@
+# lore
+lore du serveur
