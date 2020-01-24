@@ -7,7 +7,7 @@ Vous qui êtes des péons, choisissez votre faction et son souverain à qui vous
 La faction la plus avancée technologiquement mais dont son souverain ( Lord Ayden) est un véritable tyran. Chaque membre est  à la recherche d'un quelquonque plaisirs, du simple frisson à l'érotisme en passant par le meutre et la torture.
 
 ## Log Ordinal :
-Principal rivale de de la faction Ayden. A l'image de son souverain elle inspire le câlme et la serénité. Philosophie élevée quasiment au rang de religion, la notion de "Bien Suprême"  est au centre de sa  culture. Cette notion est comparable à celle du bien commun; l'entraide de tous pour un bienfait supérieur profitant à toute la communauté. Chaque membre possède un rôle et un destin qui lui est propre et déterminé, assurant à la fois sa place dans la société mais également des récompenses.
+Principale rivale de de la faction Ayden. A l'image de son souverain elle inspire le câlme et la serénité. Philosophie élevée quasiment au rang de religion, la notion de "Bien Suprême"  est au centre de sa  culture. Cette notion est comparable à celle du bien commun; l'entraide de tous pour un bienfait supérieur profitant à toute la communauté. Chaque membre possède un rôle et un destin qui lui est propre et déterminé, assurant à la fois sa place dans la société mais également des récompenses.
 
 Elle interdit tout ce qui se rapproche de près ou de loin à la faction Ayden quitte à exterminer ses contradicteurs.
 
