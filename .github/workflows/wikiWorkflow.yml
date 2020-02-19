@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v
+    - uses: actions/checkout@v2
     
     - name: Upload Release Notes to Wiki
       uses: docker://decathlon/wiki-page-creator-action:2.0.1
