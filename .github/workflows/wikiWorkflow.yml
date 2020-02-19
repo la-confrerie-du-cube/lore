@@ -13,7 +13,7 @@ jobs:
     - name: Upload Release Notes to Wiki
       uses: docker://decathlon/wiki-page-creator-action:2.0.1
       env:
-        GH_PAT: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+        GH_PAT: ${{ secrets.Shyroe_Github_Token }}
         ACTION_MAIL: myuser@users.noreply.github.com
         ACTION_NAME: myPushingUser
         OWNER: la_confrérie_du_cube
