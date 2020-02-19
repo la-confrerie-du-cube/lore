@@ -1,0 +1,22 @@
+name: publish to github wiki
+
+on: [push]
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Publish to GitHub Wiki
+      env: # Or as an environment variable
+        wiki: ${{ secrets.wiki }}
+      uses: SwiftDocOrg/github-wiki-publish-action@1.0.0
+
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
