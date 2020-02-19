@@ -14,8 +14,8 @@ jobs:
       uses: docker://decathlon/wiki-page-creator-action:2.0.1
       env:
         GH_PAT: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
-        ACTION_MAIL: myuser@users.noreply.github.com
-        ACTION_NAME: myPushingUser
+        ACTION_MAIL: cardinal@users.noreply.github.com
+        ACTION_NAME: cardinal
         OWNER: la-confrerie-du-cube
         REPO_NAME: lore
         MD_FOLDER: docs
