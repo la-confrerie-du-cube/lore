@@ -9,6 +9,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: markdownlint-cli
+      uses: nosborn/github-action-markdown-cli@v1.1.1
+      with:
+        files: .
+        config_file: ".markdownlint.json"
     
     - name: Upload Release Notes to Wiki
       uses: docker://decathlon/wiki-page-creator-action:2.0.1
