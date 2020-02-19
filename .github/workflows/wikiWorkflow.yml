@@ -13,7 +13,7 @@ jobs:
       run: echo Hello, world!
     - name: Publish to GitHub Wiki
       env: # Or as an environment variable
-        wiki: ${{ secrets.wiki }}
+         GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
       uses: SwiftDocOrg/github-wiki-publish-action@1.0.0
 
     - name: Run a multi-line script
