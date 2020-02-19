@@ -16,7 +16,7 @@ jobs:
         GH_PAT: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
         ACTION_MAIL: myuser@users.noreply.github.com
         ACTION_NAME: myPushingUser
-        OWNER: la confrérie du cube
+        OWNER: la-confrérie-du-cube
         REPO_NAME: lore
         MD_FOLDER: docs
         SKIP_MD: README.md 
