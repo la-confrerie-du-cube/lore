@@ -1,3 +1,8 @@
+---
+layout: post
+title: le traité des Factions
+---
+
 # Le Traité Des Factions
 
 Vous qui êtes des péons, choisissez votre faction et son souverain, à qui vous prêterez allégence.  
