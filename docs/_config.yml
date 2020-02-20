@@ -11,3 +11,4 @@ relative_links:
   collections: true
 include:
   -Le_Traité_des_Factions.md
+  -README.md
