@@ -35,7 +35,7 @@ Tout était chaos mort. Seul la folie des hommes reignait en maitre.
 
 ```AUTEUR : TheAlternateDoc FONCTION : MagosBiliotecus DATE : ???? AUTORISATION SYSTEM : Totale;```
 
-Durant l'ère des luttes 4 chefs de clans soucieux du bien être de leur population se réunirent en secret afin de creer un espace de bien commun.
+Durant l'ère des luttes 3 chefs de clans soucieux du bien être de leur population se réunirent en secret afin de creer un espace de bien commun.
 On ne sait que peut de choses cette réunion, simplement qu'a la fin de cette dernière les 3 représentants trouvèrent un accord.
 Dès lors, la machine implacable qu'allait devenir le Conseil se mit en marche et de vagues réformes se poursuivent dans les royaumes. Tous marchèrent sous la même bannière. Repoussant inlassablement les ordes de clan Barbares qui constituèrent autrefois la civilisation de cet univers.
 
