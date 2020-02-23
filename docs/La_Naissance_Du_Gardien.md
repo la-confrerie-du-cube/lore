@@ -77,3 +77,8 @@ Pour remercier l'intervention in extremis de cette nouvelle Faction, le Conseil 
 Le Représentant est une femme en combinaison de combat faite de métal.
 
 ![représantation du gardien](https://media.discordapp.net/attachments/668952697793150987/681129187901571183/7f0e52cd0928fa165c2a1a135a6e21c7.png)
+
+```FIN SEQUENCE;```
+```CHECK SYSTEM;```
+```FIN LECTURE;```
+```RETOUR FONCTIONS PRINCIPALS;```
